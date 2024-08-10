@@ -9,7 +9,7 @@ public class Main {
         ur.Walk();
         User ap =new User();
         ap.age=20;
-        ap.Name="paaa";
+        ap.Name="pooja";
         ap.Gender="female";
         System.out.println(ap.age+"   "+ap.Name+"  "+ap.Gender);
         ap.Run();
